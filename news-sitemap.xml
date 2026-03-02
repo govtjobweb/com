@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://govtjobweb.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://govtjobweb.com/news-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-news/0.9 http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+	<url>
+		<loc>https://govtjobweb.com/rrb-group-d-vacancy/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Govt Job Web</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:publication_date>2026-03-02T17:33:17+00:00</news:publication_date>
+			<news:title><![CDATA[RRB Group D Vacancy 2025-2026: 22,195 jobs for Level-1 posts]]></news:title>
+		</news:news>
+	</url>
 	<url>
 		<loc>https://govtjobweb.com/central-bank-so-recruitment/</loc>
 		<news:news>
