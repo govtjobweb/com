@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://govtjobweb.com/10th-12th-jobs/</loc>
-		<lastmod>2026-03-02T17:33:18+00:00</lastmod>
+		<lastmod>2026-03-06T11:07:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://govtjobweb.com/assam-jobs/</loc>
@@ -37,6 +37,10 @@
 		<lastmod>2026-02-26T11:06:07+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://govtjobweb.com/himachal-pradesh-jobs/</loc>
+		<lastmod>2026-03-05T13:29:00+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://govtjobweb.com/iti-jobs/</loc>
 		<lastmod>2026-03-02T17:33:18+00:00</lastmod>
 	</url>
@@ -61,12 +65,20 @@
 		<lastmod>2026-02-26T11:06:07+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://govtjobweb.com/odisha-jobs/</loc>
+		<lastmod>2026-03-06T08:12:59+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://govtjobweb.com/police-defence-jobs/</loc>
-		<lastmod>2026-03-01T18:54:49+00:00</lastmod>
+		<lastmod>2026-03-06T08:12:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://govtjobweb.com/post-graduation-jobs/</loc>
 		<lastmod>2026-02-26T11:06:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://govtjobweb.com/punjab-jobs/</loc>
+		<lastmod>2026-03-06T11:07:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://govtjobweb.com/railway-jobs/</loc>
