@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /static/uploads/simply-static/
 
 Sitemap: https://govtjobweb.com/sitemap_index.xml
